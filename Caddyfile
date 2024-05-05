@@ -1,0 +1,3 @@
+https://uqyhi9ksgqgxqm.proxy.runpod.net {
+	reverse_proxy localhost:8000
+}
